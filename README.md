@@ -1,11 +1,11 @@
-## Hi, 👋 I'm Paladin
+## Hi, 👋 I'm Paladin  
 
-📙 I’m currently learning at DUT.
+📙 I’m currently learning at DUT.  
 ✨ I love learning and being around people who share my core values.
 
 <!-- https://github.com/QingZhou-YangHY/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20QingZhou-YangHY!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Paladin!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -22,8 +22,7 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=QingZhou-YangHY&theme=github-compact&hide_border=true&area=true">
 <br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=QingZhou-YangHY&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QingZhou-YangHY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
