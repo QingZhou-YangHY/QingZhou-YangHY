@@ -5,7 +5,7 @@
 
 <!-- https://github.com/QingZhou-YangHY/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Paladin!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Paladin!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -39,5 +39,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20every%20day%20is%20happy%20for%20you!%20😊&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20every%20day%20is%20happy%20for%20you!%20😊&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
