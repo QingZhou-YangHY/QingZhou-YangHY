@@ -40,4 +40,4 @@
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20every%20day%20is%20happy%20for%20you!%20😊&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
-</p>按照编程规范和缩进格式帮我整理一下
+</p>
