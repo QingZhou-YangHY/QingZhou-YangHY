@@ -1,7 +1,7 @@
 ## Hi, 👋 I'm DaYang  
 
 📙 I’m currently learning at DUT.  
-✨ I love learning and being around people who share my core values.
+✨ I love learning and being around people who share my core values.  
 ❤️ I am drawn to who you are, far more than what you have achieved.相比于成就，你的人品会更加吸引我！
 
 <!-- https://github.com/QingZhou-YangHY/capsule-render -->
